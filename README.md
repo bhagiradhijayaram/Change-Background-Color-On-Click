@@ -4,7 +4,9 @@ This is a simple web project that demonstrates how to change the background colo
 Features :
 
 Random Color Generation: Clicking the button generates a random hex color code.
+
 Background Color Change: The background color of the webpage changes to the randomly generated color.
+
 Color Code Display: Displays the hexadecimal code of the generated color.
 
 Technologies Used
