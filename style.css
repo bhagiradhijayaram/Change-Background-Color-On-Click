@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+  }
+  
+  button {
+    font-family: "Poppins", sans-serif;
+    font-size: 1em;
+    margin: 80px;
+    padding: 5px 5px;
+    border: 2px solid black;
+    background-color: transparent;
+    color: black;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    outline: none;
+  }
+  button:hover {
+    background-color: #000000; /* Changing background color on hover */
+    color: #ffffff; /* Changing text color on hover */
+}
